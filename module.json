@@ -1,25 +1,17 @@
 {
   "id": "my-shared-compendia-coc",
   "title": "My Shared Compendia (CoC7)",
-  "description": "Creates default set of compendia that are shared across Foundry VTT worlds hosted on the same server for Call of Cthulhu 7.",
+  "description": "Creates default set of compendia that are shared across Foundry VTT worlds hosted on the same server for Call of Cthulhu 7. This is mostly a copy of My-Shared-Compendia by Stephan Schölzel and Napoleone Piani, which was made compatible with CoC7",
   "authors": [
-    {
-      "name": "Stephan Schölzel",
-      "flags": {}
-    },
-    {
-      "name": "Napoleone Piani",
-      "flags": {}
-    },
     {
       "name": "Ceriath",
       "flags": {}
     }
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "10",
-    "verified": "10"
+    "verified": "11"
   },
   "packs": [
     {
@@ -95,7 +87,7 @@
       "flags": {}
     }
   ],
-  "download": "https://github.com/ceriath/My-Shared-Compendia-CoC7/archive/v1.0.0.zip",
+  "download": "https://github.com/ceriath/My-Shared-Compendia-CoC7/archive/v1.0.1.zip",
   "manifest": "https://github.com/ceriath/My-Shared-Compendia-CoC7/releases/latest/download/module.json",
   "url": "https://github.com/ceriath/My-Shared-Compendia-CoC7"
 }
